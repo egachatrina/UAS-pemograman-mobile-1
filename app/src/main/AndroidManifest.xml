@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools">
+
+    <uses-permission android:name="android.permission.POST_NOTIFICATIONS" />
+    <uses-permission android:name="android.permission.VIBRATE" />
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+
+    <application
+        android:allowBackup="true"
+        android:dataExtractionRules="@xml/data_extraction_rules"
+        android:fullBackupContent="@xml/backup_rules"
+        android:icon="@drawable/iconapp"
+        android:label="Ega Apps"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.EgaApps"
+        tools:targetApi="31">
+
+        <activity android:name=".Splash"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+
+        </activity>
+        <activity android:name=".Menu"></activity>
+        <activity android:name=".MainActivity"></activity>
+        <activity android:name=".ActivityFibonacci"></activity>
+        <activity android:name=".MainActivityScrollIceCold"></activity>
+        <activity android:name=".pesan.MainActivityOne"></activity>
+        <activity android:name=".pesan.MainActivityTwo"></activity>
+        <activity android:name=".alarm.ActivityAlarm"></activity>
+        <activity android:name=".ActivityCount"></activity>
+
+
+        <activity android:name=".fragment.ViewPagerActivity"></activity>
+        <activity android:name=".fragment.sinopsis.SinopsisAction1"></activity>
+        <activity android:name=".fragment.sinopsis.SinopsisAction2"></activity>
+        <activity android:name=".fragment.sinopsis.SinopsisAction3"></activity>
+        <activity android:name=".fragment.sinopsis.SinopsisAction4"></activity>
+
+        <activity android:name=".fragment.sinopsis.SinopsisDrama1"></activity>
+        <activity android:name=".fragment.sinopsis.SinopsisDrama2"></activity>
+        <activity android:name=".fragment.sinopsis.SinopsisDrama3"></activity>
+        <activity android:name=".fragment.sinopsis.SinopsisDrama4"></activity>
+
+        <activity android:name=".fragment.sinopsis.SinopsisAnime1"></activity>
+        <activity android:name=".fragment.sinopsis.SinopsisAnime2"></activity>
+        <activity android:name=".fragment.sinopsis.SinopsisAnime3"></activity>
+        <activity android:name=".fragment.sinopsis.SinopsisAnime4"></activity>
+
+        <meta-data
+            android:name="preloaded_fonts"
+            android:resource="@array/preloaded_fonts" />
+
+
+    </application>
+</manifest>
