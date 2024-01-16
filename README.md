@@ -253,5 +253,18 @@ new Handler().postDelayed(new Runnable() {
 
 ###  Capture hasil semua activity yang saya buat:
 
+![Screenshot_2024-01-16-11-08-15-243_com a4 egaapps](https://github.com/egachatrina/Fibonacci_App/assets/116137731/7110e5b4-a602-4319-b27b-7187b601e60a)
+![Screenshot_2024-01-16-11-07-17-671_com a4 egaapps](https://github.com/egachatrina/Fibonacci_App/assets/116137731/2af7842a-befe-4555-b1ba-c191d0f1f970)
+![Screenshot_2024-01-16-11-07-21-838_com a4 egaapps](https://github.com/egachatrina/Fibonacci_App/assets/116137731/8278b967-00c8-48c4-84ca-556c46b7435a)
+![Screenshot_2024-01-16-11-07-25-344_com a4 egaapps](https://github.com/egachatrina/Fibonacci_App/assets/116137731/bde1d048-ca78-44b0-8234-872b70173fc2)
+![Screenshot_2024-01-16-11-07-28-178_com a4 egaapps](https://github.com/egachatrina/Fibonacci_App/assets/116137731/72cb601a-7e50-4660-97a1-11500c25f1c4)
+![Screenshot_2024-01-16-11-07-40-550_com a4 egaapps](https://github.com/egachatrina/Fibonacci_App/assets/116137731/71f281f0-aa8b-40e3-a1ca-2335032f417c)
+![Screenshot_2024-01-16-11-07-48-846_com a4 egaapps](https://github.com/egachatrina/Fibonacci_App/assets/116137731/e7eb36c6-72a3-424b-81e2-08c6c8b6522b)
+![Screenshot_2024-01-16-11-07-56-893_com a4 egaapps](https://github.com/egachatrina/Fibonacci_App/assets/116137731/e77d1671-2fa9-46c8-b241-517bddb10399)
+![Screenshot_2024-01-16-11-08-11-271_com a4 egaapps](https://github.com/egachatrina/Fibonacci_App/assets/116137731/7a6897d3-f896-453e-a059-118ee9dd86fd)
+![Screenshot_2024-01-16-11-08-15-243_com a4 egaapps](https://github.com/egachatrina/Fibonacci_App/assets/116137731/57c6690a-635a-4a6f-830f-75400118a41e)
+![Screenshot_2024-01-16-11-08-02-648_com a4 egaapps](https://github.com/egachatrina/Fibonacci_App/assets/116137731/bc2bb9e2-e046-41a9-b775-ceb8aab38cee)
+
+
 -------------------------------
 # TERIMA KASIH
